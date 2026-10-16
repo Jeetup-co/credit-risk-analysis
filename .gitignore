@@ -14,6 +14,9 @@ __pycache__/
 # Raw data
 data/raw/*
 
+# Processed data
+data/processed/*
+
 # Python build files
 *.egg-info/
 
